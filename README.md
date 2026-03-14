@@ -6,7 +6,7 @@ A modern movie browsing application built with React that allows users to search
 ## Screenshots
 
 
-![App Screenshot](public/readme/hero.png)
+![App Screenshot](https://raw.githubusercontent.com/kamalanathan23/React-MovieValut/refs/heads/main/public/movie.png)
 
 
 ## Tech Stack
@@ -19,4 +19,4 @@ A modern movie browsing application built with React that allows users to search
 
 ## Live Preview
 
-https://your-deployment-url.vercel.app/
+https://react-movie-valut.vercel.app/
